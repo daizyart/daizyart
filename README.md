@@ -51,5 +51,3 @@ You can use the website to generate badges: https://shields.io/
 
 -----
 Credits: [daizyart](https://github.com/daizyart)
-
-Last Edited on: 12/02/2020
